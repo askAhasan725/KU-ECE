@@ -1,25 +1,22 @@
-# Lab Files – Electronics and Communication Engineering Discipline, Khulna University
+# Lab Files – 0714 09 CSE 1152
 
-This repository contains lab files organized by course code and lab title.
+## 🔬 Course Overview
 
-## 🔬 Weekly Lab Schedule
+| #              | Details                                                                 |
+|----------------|-------------------------------------------------------------------------|
+| Course Title   | Structured Programming Sessional (3 Credit)                             |
+| Course Instructor | [Aminul Islam](https://ku.ac.bd/discipline/cse/faculty/aminul)       |
+| Course Code    | 0714 09 CSE 1152                                                        |
+| Course Provider| [Electronics and Communication Engineering Discipline](https://ku.ac.bd/discipline/ece/) |
+| Institution    | **[Khulna University](https://ku.ac.bd/)**                              |
 
-| Day   | Time         | Lab Course                        | Room     | Instructor                              |
-|-------|--------------|-----------------------------------|----------|-----------------------------------------|
-| Sun   | 2PM–5PM      | CHEM 1176 – Chemistry Lab         | —        | [Dr. Hasina Akter](#)                   |
-| Mon   | 3PM–4PM      | CSE 1152 – Computer Lab           | CSE Lab  | [Engr. Maruf Rahman](#)                 |
-| Tue   | —            | —                                 | —        | —                                       |
-| Wed   | 2PM–5PM      | ECE 1102 – Electrical & Elec. Lab | —        | [Dr. Azmir Ibne Anwar](#)              |
-| Thu   | 3PM–5PM      | PHY 1174 – Physics Lab            | —        | [Md. Mahmudul Hasan Tushar](#)          |
-
-> Note: Click teacher names to access profiles (update `#` links when available)
+> Note: This is not an official note and is not provided by **[Khulna University](https://ku.ac.bd/)**.
 
 ## 📁 Lab Folders
 
-- [`ECE1102_Electrical_Electronic_Lab/`](./ECE1102_Electrical_Electronic_Lab/)
-- [`CSE1152_Computer_Lab/`](./CSE1152_Computer_Lab/)
-- [`PHY1174_Physics_Lab/`](./PHY1174_Physics_Lab/)
-- [`CHEM1176_Chemistry_Lab/`](./CHEM1176_Chemistry_Lab/)
+- [`Prectice/`](./Prectice/)
+- [`CSE Lab/`](./CSE Lab/)
+
 
 ---
 
@@ -27,4 +24,4 @@ This repository contains lab files organized by course code and lab title.
 
 To clone:
 ```bash
-git clone https://github.com/yourusername/ece-ku-labs.git
+git clone https://github.com/askAhasan725/KU-ECE.git
